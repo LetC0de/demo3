@@ -1,0 +1,26 @@
+ID,Name,Age,Salary,Joining_Date,Department,Email,Phone_Number,Gender,Performance_Score,Manager,Remarks
+1,John,28,50000,2018-01-15,Sales,john@mail.com,+91-9876543210,M,A,Alice,Good
+2,Alice,,62000,2019/03/22,HR,alice(at)mail,123456,Female,Excellent,Bob,?
+3,Bob,Thirty,1000000,NaT,IT,,,Unknown,95,Eve,Needs Improvement
+4,Grace,27.5,-5000,InvalidDate,,[grace@mail.com],99999-99999,F,B,None,Poor
+5,Michael,45,75000,2020-12-01,Finance,michael@company.com,+1-555-0123,M,A,Carol,Excellent
+6,Sarah,-25,48000,2022/07/15,Marketing,sarah@mail,9876543210,F,C,David,Average
+7,David,32,NaN,2017-05-30,Sales,david@company.com,+44-20-7946-0958,M,,Alice,Good performer
+8,Emma,29,55000,Not Available,HR,emma@mail.com,555-1234,Female,B,Frank,
+9,Robert,999,120000,2023-02-28,IT,robert@company.com,+61-2-9876-5432,M,A,Carol,Outstanding
+10,Lisa,26,42000,2021-11-11,Sales,lisa@mail.com,123-456-7890,F,B,Alice,Needs training
+11,James,31,68000,2019-08-25,NaN,james@company.com,+81-3-1234-5678,M,A,,Good team player
+12,Sophia,24,51000,2022-03-15,Marketing,sophia@mail.com,555-9876,F,C,David,New hire
+13,William,0,59000,2018-09-10,Finance,william@company.com,+1-212-555-0199,M,B,Carol,
+14,Olivia,28,47000,2020-01-01,HR,olivia@mail.com,444-3333,Female,C,Frank,Average performance
+15,Ethan,33,NaN,2016-12-05,IT,ethan@company.com,+49-30-123456,M,A,Eve,Senior developer
+16,Ava,27,53000,2021/06/30,Sales,ava@mail.com,777-8888,F,B,Alice,Promising
+17,Noah,29,71000,2019-04-22,Marketing,noah@company.com,+86-10-59876543,M,A,David,Top performer
+18,Isabella,26,49000,2022-08-14,Finance,isabella@mail.com,222-1111,F,C,Carol,
+19,Lucas,30,65000,2017-11-30,HR,lucas@company.com,+33-1-2345-6789,M,B,Frank,Reliable
+20,Mia,25,56000,2020-05-15,IT,mia@mail.com,666-7777,F,A,Eve,Quick learner
+21,Benjamin,28,58000,Invalid date,Sales,benjamin@company.com,+91-9876543210,M,B,Alice,
+22,Charlotte,31,72000,2018-07-07,Marketing,charlotte@mail.com,888-9999,Female,A,David,Excellent communicator
+23,Henry,35,85000,2015-03-12,Finance,henry@company.com,+1-415-555-0123,M,A,Carol,Manager material
+24,Amelia,27,52000,2021-02-28,HR,amelia@mail.com,333-4444,F,B,Frank,
+25,Mason,29,63000,2019-10-31,IT,mason@company.com,+44-20-7946-0123,M,C,Eve,Needs improvement
